@@ -1,0 +1,48 @@
+.input{
+    width: 200px;
+}
+
+.color {
+    background-color: #1372d1!important;
+}
+
+.textcolor {
+    color: #131414!important;
+}
+
+.btn-color {
+    color: #fff;
+    background-color: #b32c39;
+    border-color: #b32c39;
+}
+
+.formwidth1{
+    width: 40%!important;
+}
+
+.formwidth2{
+    width: 60%!important;
+}
+
+.innerdiv{
+    margin: 0 auto;
+}
+
+.boxwidth{
+max-width: 270px;
+margin-top: 5rem!important;
+}
+
+
+.boxwidth2{
+    max-width: 450px;
+    margin-top: 2rem!important;
+}
+
+.borderbox{
+    border: 2px;
+}
+
+.spanwidth {
+    width: 5%!important;
+}
