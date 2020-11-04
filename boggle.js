@@ -6,6 +6,7 @@ const words = [];
   
 
 //console.log(letterContent.innerHTML);
+//console
 
 function randomLetter() {
     const string = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
